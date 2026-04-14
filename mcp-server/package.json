@@ -1,0 +1,13 @@
+{
+  "name": "nutrilog-mcp",
+  "version": "1.0.0",
+  "description": "MCP server for NutriLog diet diary",
+  "type": "module",
+  "main": "diet-mcp.js",
+  "scripts": {
+    "start": "node diet-mcp.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0"
+  }
+}
