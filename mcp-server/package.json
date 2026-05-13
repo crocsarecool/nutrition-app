@@ -1,11 +1,11 @@
 {
-  "name": "nutrilog-mcp",
+  "name": "flow-mcp",
   "version": "1.0.0",
-  "description": "MCP server for NutriLog diet diary",
+  "description": "MCP server for FLOW productivity log — query work blocks, cognitive scores, and patterns",
   "type": "module",
-  "main": "diet-mcp.js",
+  "main": "flow-mcp.js",
   "scripts": {
-    "start": "node diet-mcp.js"
+    "start": "node flow-mcp.js"
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.0.0"
