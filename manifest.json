@@ -1,7 +1,7 @@
 {
-  "name": "NutriLog",
-  "short_name": "NutriLog",
-  "description": "Voice-powered diet tracker with Claude AI",
+  "name": "Flow",
+  "short_name": "Flow",
+  "description": "WHOOP-style productivity biometric tracker — 30-min check-ins, cognitive scores, focus coaching",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#0a0e14",

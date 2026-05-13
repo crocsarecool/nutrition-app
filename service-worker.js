@@ -1,4 +1,4 @@
-const CACHE = 'nutrilog-v1';
+const CACHE = 'flow-v1';
 const ASSETS = [
   '/',
   '/index.html',
